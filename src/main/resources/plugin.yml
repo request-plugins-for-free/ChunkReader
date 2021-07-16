@@ -1,0 +1,4 @@
+name: ChunkReader
+version: ${project.version}
+main: me.tofpu.chunkreader.ChunkReader
+authors: [ Tofpu ]
